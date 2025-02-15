@@ -1,2 +1,2 @@
 # MLProject
-Fake News detection
+Fake News Detection
